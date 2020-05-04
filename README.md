@@ -3,9 +3,6 @@
 screensavers for dreamers.
 
 ## ready?
-```
-./ready.saver
-```
 
 ![ready?](./preview/ready.png)
 
